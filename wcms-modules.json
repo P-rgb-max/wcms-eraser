@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"plugins": {
+		"eraser": {
+			"name": "Empty site",
+			"repo": "https://github.com/P-rgb-max/wcms-eraser/tree/master",
+			"zip": "https://github.com/P-rgb-max/wcms-eraser/archive/master.zip",
+			"summary": "Eraser for sites to empty site",
+			"version": "3.0.0",
+			"image": "https://raw.githubusercontent.com/P-rgb-max/wcms-eraser/master/preview.jpg"
+		}
+	}
+}
